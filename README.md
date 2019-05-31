@@ -1,2 +1,4 @@
-# mpp-docs
-A full documentation on the MPP API for http://www.multiplayerpiano.com.
+# MPP Documentation
+A full documentation on the [MPP](http://www.multiplayerpiano.com) API.
+
+See the [wiki](https://github.com/TehcJS/mpp-docs/wiki) for documentation.
